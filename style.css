@@ -100,7 +100,7 @@ a:hover {
 }
 
 .d-bloc {
-    color: #000000;
+    color: rgba(255, 255, 255, .7);
 }
 
 .d-bloc button:hover {
@@ -651,7 +651,7 @@ label,
 a {
     font-family: "helvetica";
     font-weight: 400;
-    color: #575757!important;
+    color: #000000!important;
 }
 
 .container {
@@ -736,7 +736,7 @@ h4 {
 }
 
 .white {
-    color: #FFFFFF!important;
+    color: #000000!important;
 }
 
 .portfolio-thumb {
@@ -780,12 +780,12 @@ h4 {
 
 .btn-atomic-tangerine {
     background: #F3976C;
-    color: #000000!important;
+    color: rgba(255, 255, 255, .7)!important;
 }
 
 .btn-atomic-tangerine:hover {
     background: #c27956!important;
-    color: #000000!important;
+    color: rgba(255, 255, 255, .7)!important;
 }
 
 .ltc-white {
